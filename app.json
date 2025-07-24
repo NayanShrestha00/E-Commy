@@ -9,7 +9,10 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "jsEngine": "jsc"
+    },
+    "jsEngine": "hermes"
     },
     "android": {
       "adaptiveIcon": {
@@ -39,4 +42,4 @@
       "typedRoutes": true
     }
   }
-}
+
